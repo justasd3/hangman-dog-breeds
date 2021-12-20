@@ -1,0 +1,10 @@
+.Hangman {
+    margin-top: 100px;
+    font-family: 'Lora', serif;}
+.btn {
+  margin: 5px;
+}
+.hint_img{
+  width: 200px;
+  height: 200px;
+}
